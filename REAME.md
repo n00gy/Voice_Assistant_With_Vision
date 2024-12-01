@@ -18,7 +18,7 @@ Installation
    ```
 2. Navigate to the project folder:
    ```bash
-   cd your_repo_name
+   cd Voice_Assistant_With_Vision
    ```
 3. Create a virtual environment (optional but recommended):
    ```bash
